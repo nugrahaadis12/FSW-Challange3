@@ -199,9 +199,10 @@ hr.newHR {
 
 /* Start Footer */
 .textFooter {
-    font-size: 12.5px;
+    font-size: 14px;
     margin-bottom: 12px;
 }
+/* End Footer */
 
 @media only screen and (min-width: 999px) and (max-width: 2000px) {
     .brFooter {
